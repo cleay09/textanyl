@@ -1,2 +1,2 @@
 # textanyl
-text analyzer from web and local resources
+text analyzer from web and local sources
